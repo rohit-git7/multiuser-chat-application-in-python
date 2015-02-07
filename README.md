@@ -1,4 +1,5 @@
-               Multiuser command line chat application using python                       
+Multiuser command line chat application using python                       
+-----------------------------------------------------
 Files:
 client.py
 server.py
